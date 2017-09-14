@@ -5,3 +5,6 @@ app.bundle.js.map
 npm-debug*
 .idea
 *.bundle.js
+.vscode
+.eslintrc.json
+.editorconfig
